@@ -1,0 +1,6 @@
+{
+  "name": "Juzoor | جذور للمستلزمات الزراعية",
+  "description": "متجر جذور (Juzoor) لأفضل البذور، الأسمدة، المخصبات، والمبيدات الزراعية الموثوقة في مصر منذ عام 1999.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
