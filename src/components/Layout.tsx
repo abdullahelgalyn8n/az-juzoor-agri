@@ -161,7 +161,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
               <div className="bg-[#183020] group-hover:bg-[#1f3d29] border border-[#325239] rounded-xl px-2.5 py-1 transition-colors flex items-center justify-center">
                 <JuzoorLogoCrest className="h-8 sm:h-11 w-auto" />
               </div>
-              <div className="hidden xl:flex flex-col text-right">
+              <div className="hidden 2xl:flex flex-col text-right">
                 <span className="text-sm font-extrabold text-white tracking-tight leading-tight">
                   جذور الزراعية
                 </span>
@@ -335,7 +335,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
               target="_blank"
               rel="noopener noreferrer"
               aria-label="تواصل عبر واتساب"
-              className="hidden xl:inline-flex h-10 px-3.5 rounded-xl bg-[#1f8b4c] hover:bg-[#19733e] text-white text-xs font-extrabold items-center gap-1.5 transition-colors shadow-xs"
+              className="hidden 2xl:inline-flex h-10 px-3.5 rounded-xl bg-[#1f8b4c] hover:bg-[#19733e] text-white text-xs font-extrabold items-center gap-1.5 transition-colors shadow-xs"
             >
               <MessageCircle className="w-4 h-4" />
               <span>واتساب مباشر</span>
